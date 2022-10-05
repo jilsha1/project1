@@ -1,0 +1,154 @@
+.header{
+
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+    
+    width: 100%;
+    height: 60px;
+}
+.body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image:url(294150074_428547302532272_8556641026190850253_n.jpg);
+   
+}
+.logo{
+    width: 50%;
+    padding-top: 10px;
+    float: left;
+
+}
+.login{
+    width: 50%;
+    float: left;
+}
+.logo-text{
+    color:#b632b4;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Cursive;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+.home{
+    color:  rgb(19, 122, 122);
+    font-size: 20px;
+    text-decoration: none;
+    padding-right: 25px;
+    font-weight: bold;
+    
+}
+.about{
+    color:  rgb(19, 122, 122);
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    padding-right: 25px
+}
+.service{
+    color: rgb(19, 122, 122);
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    padding-right: 25px
+
+}
+.gallery{
+    color:  rgb(19, 122, 122);
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    padding-right: 25px
+}
+.contact{
+    color:  rgb(19, 122, 122);
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    padding-right: 25px
+}
+    
+.second
+{
+    background:gray;
+    width: 100%;
+    height: 50px
+    
+}
+.left-section{
+    width: 50%;
+    float: left;
+    padding-left: 0px;
+    padding-top: 0px;
+}
+.lftimg{
+    width: 100%;
+    height: 100vh;
+}
+.right-section{
+    width: 10%;
+    float: left;
+    padding-left: 580px;
+    
+}
+    
+
+.main-body{
+    
+    width: 100%;
+    height: 100vh;
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+    background-size: cover;
+}
+.image{
+    width: 981px;
+    height: 770px;
+    
+
+}
+.imgpro{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin-top: 113px;
+    margin-left: -310px;
+}
+.imglogo{
+    width: 150px;
+    height: 100px;
+}
+.c1{
+    background: rgb(109, 13, 173);
+}
+.para{
+    padding-right: 5px;
+    font-weight: bold;
+    font-size: 19px;
+    text-align: justify;
+    margin-left: -178px;
+    margin-top: -63px;
+    font-family: emoji;
+    color: gray;
+}
+.dirinfo{
+    padding-right: 5px;
+    font-weight: bold;
+    font-size: 19px;
+    text-align: justify;
+    margin-left: -69px;
+    margin-top: 84px;
+    font-family: emoji;
+    color: black;
+
+}
+.container{
+    background: linear-gradient(344deg, #f4d1e5, #bb8ca100);
+    height: 830px
+}
+.fb{
+    
+    text-decoration: none;
+    font-weight: bold;
+    color: green;
+    font-size: 24px
+}

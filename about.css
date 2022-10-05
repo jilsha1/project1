@@ -1,0 +1,35 @@
+.main{
+    width: 100%;
+    height: 100vh;
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+    background-position: center;
+    position: relative;
+    overflow: hidden;
+}
+.details{
+    color: blue;
+
+}
+.right-section{
+    width: 10%;
+    float: left;
+    padding-left: 448px;
+    
+}
+.paraabout{
+    padding-right: 5px;
+    font-weight: bold;
+    font-size: 19px;
+    text-align: justify;
+    margin-left: -319px;
+    margin-top: 67px;
+    font-family: emoji;
+    color: rgb(59, 56, 56);
+}
+
+.imgabout{
+    margin-bottom: 44%;
+    width: 75%;
+    padding-left: 160px;
+    margin-top: 10%;
+}
